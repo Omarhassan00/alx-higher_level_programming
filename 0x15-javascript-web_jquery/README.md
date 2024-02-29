@@ -1,1 +1,1 @@
-python code for alx
+# 0x15-javascript-web_jquery
